@@ -1,0 +1,31 @@
+Exercício 1
+Explique com suas palavras:
+
+O que é Machine Learning?
+
+É o processo de fornecer informações para que o algoritmo aprenda com elas e consiga identificar padrões.
+
+Exercício 2
+Explique a diferença entre:
+X e y
+
+Por convenção, o X representa as entradas, informações fornecidas e o Y representa as saídas, a resposta.
+
+Exercício 3
+O que faz esta linha?
+import pandas as pd
+
+traz a biblioteca (pandas) e nomeia como pd
+
+Exercício 4
+O que é um DataFrame?
+
+É uma estrutura de dados semelhante a uma tabela.
+
+Exercício 5
+Explique:
+modelo.fit(X, y)
+
+O FIT significa ajustar e o que ele faz é observar e comparar as informações da tabela para descobrir padrões.
+
+
